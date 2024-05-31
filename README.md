@@ -57,6 +57,8 @@
             </ul>
             <a href="https://www.tiktok.com/@pluto_tech1?_t=8movzz7UTf3&_r=1"><img
                     src="https://cdn-icons-png.flaticon.com/128/3046/3046126.png" alt="tikTok" width="60"></a>
+<a href="https://www.instagram.com/pluto_tech1?igsh=dnEzNjh2dG9ibHV5&utm_source=qr"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="instagram" width="60"></a>
+<a href="https://t.me/plutotechsourcecode"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="telegram" width="60"></a>
             <a href="https://youtube.com/@pluto_tech1?si=XIRsiGq1RlNtyUIE"><img
                     src="https://cdn-icons-png.flaticon.com/128/3938/3938037.png" alt="instagram" width="60"></a>
         </div>
